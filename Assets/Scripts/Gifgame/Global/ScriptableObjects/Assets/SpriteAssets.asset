@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 32
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2fbe6c8ba43827947ad8152edcdfbe7f, type: 3}
+  m_Name: SpriteAssets
+  m_EditorClassIdentifier: 
+  buttonMuteOnUnpressed: {fileID: -678342686890198772, guid: 6d4114bee8bcc9e47b69ef8648a866be, type: 3}
+  buttonMuteOnPressed: {fileID: -5986995168892791385, guid: 6d4114bee8bcc9e47b69ef8648a866be, type: 3}
+  buttonMuteOffUnpressed: {fileID: 4863635817399720867, guid: 6d4114bee8bcc9e47b69ef8648a866be, type: 3}
+  buttonMuteOffPressed: {fileID: 233224153047978099, guid: 6d4114bee8bcc9e47b69ef8648a866be, type: 3}

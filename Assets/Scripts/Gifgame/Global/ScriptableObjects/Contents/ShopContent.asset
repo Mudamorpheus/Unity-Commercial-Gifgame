@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 32
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b5797b2c224dee42b91548f52d2bd43, type: 3}
+  m_Name: ShopContent
+  m_EditorClassIdentifier: 
+  shopTransitions:
+  - Key: Default
+    Price: 0
+    Icon: {fileID: 5507336684910063568, guid: b85126e9a1421fe44a9752c24f030798, type: 3}
+    Prefab: {fileID: 3650256611478794736, guid: 09698b08faa632d4baab690d8b510252, type: 3}
+    Duration: 1.33
+  - Key: Hex
+    Price: 1
+    Icon: {fileID: 980283510979659906, guid: 720f410c50b08ac47ad6a1c6d621de22, type: 3}
+    Prefab: {fileID: 5041156183677081229, guid: 1b219db3e4c56014482ba0ac2b5be1fd, type: 3}
+    Duration: 1.33
+  - Key: Toxic
+    Price: 2
+    Icon: {fileID: 2714807785875557649, guid: df20a53306536424696dd00b40c73e60, type: 3}
+    Prefab: {fileID: 2529019559682262586, guid: 44d7eccf626eac445afe574059051077, type: 3}
+    Duration: 1.33
+  shopPlayheads:
+  - Key: Default
+    Price: 0
+    Icon: {fileID: 4579367420741005066, guid: bb4e0559c85d70447a749bc79b87d350, type: 3}
+    PlayheadDefault: {fileID: 21300000, guid: 2eb7e5b327ddb23478eeac8843b01127, type: 3}
+    PlayheadActive: {fileID: 21300000, guid: 2eb7e5b327ddb23478eeac8843b01127, type: 3}
+    PlayheadVictory: {fileID: 21300000, guid: 2eb7e5b327ddb23478eeac8843b01127, type: 3}
+    PlayheadDefeat: {fileID: 21300000, guid: 2eb7e5b327ddb23478eeac8843b01127, type: 3}
+    PlayheadRecolor: 1
+  - Key: Circle
+    Price: 1
+    Icon: {fileID: 8707717640304201543, guid: 1da54ccae8a828e48bbb44e752ad55e1, type: 3}
+    PlayheadDefault: {fileID: 21300000, guid: 5b1d753ba4296d540ba7497a9b89de66, type: 3}
+    PlayheadActive: {fileID: 21300000, guid: 5b1d753ba4296d540ba7497a9b89de66, type: 3}
+    PlayheadVictory: {fileID: 21300000, guid: 5b1d753ba4296d540ba7497a9b89de66, type: 3}
+    PlayheadDefeat: {fileID: 21300000, guid: 5b1d753ba4296d540ba7497a9b89de66, type: 3}
+    PlayheadRecolor: 1
+  - Key: Triangle
+    Price: 2
+    Icon: {fileID: 1914349602435595115, guid: dd01980de8d9c0f4892fe86fea919e9f, type: 3}
+    PlayheadDefault: {fileID: 21300000, guid: 320f15523a4308b4595dc24c83eda3e0, type: 3}
+    PlayheadActive: {fileID: 21300000, guid: 320f15523a4308b4595dc24c83eda3e0, type: 3}
+    PlayheadVictory: {fileID: 21300000, guid: 320f15523a4308b4595dc24c83eda3e0, type: 3}
+    PlayheadDefeat: {fileID: 21300000, guid: 320f15523a4308b4595dc24c83eda3e0, type: 3}
+    PlayheadRecolor: 1
+  shopLifebars:
+  - Key: Default
+    Price: 0
+    Icon: {fileID: 6451897152245737540, guid: f0c38b91340a19c40b22d697ad2cbc85, type: 3}
+    LifebarOn: {fileID: -4014094608787968335, guid: ad260cc6391055645a38463d881bd1ac, type: 3}
+    LifebarOff: {fileID: -4286977402875604327, guid: ad260cc6391055645a38463d881bd1ac, type: 3}
+  - Key: Fire
+    Price: 1
+    Icon: {fileID: 8453196636068624058, guid: 3cbe1ed808077fd4ea6882a23bb0edd5, type: 3}
+    LifebarOn: {fileID: -6973944541659477207, guid: 36fed0eec9142d740a65d216516b84cd, type: 3}
+    LifebarOff: {fileID: 4174658596208447923, guid: 36fed0eec9142d740a65d216516b84cd, type: 3}
+  - Key: Bulb
+    Price: 2
+    Icon: {fileID: 2479976286713602876, guid: 6b58155fca14b034c8ca3b58da52301d, type: 3}
+    LifebarOn: {fileID: -5081889394817464615, guid: 2641649d8f6694a46a072be6e848abbc, type: 3}
+    LifebarOff: {fileID: -6763377211168302486, guid: 2641649d8f6694a46a072be6e848abbc, type: 3}

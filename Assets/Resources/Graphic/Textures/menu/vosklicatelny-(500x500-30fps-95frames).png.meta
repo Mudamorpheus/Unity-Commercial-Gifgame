@@ -1,0 +1,2400 @@
+fileFormatVersion: 2
+guid: dbb003c574e7d1a48833f2951ab5920c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3813093745056358509
+    second: vosklicatelny-(500x500-30fps-95frames)_0
+  - first:
+      213: 5823546979195791277
+    second: vosklicatelny-(500x500-30fps-95frames)_1
+  - first:
+      213: 4501218423200173159
+    second: vosklicatelny-(500x500-30fps-95frames)_2
+  - first:
+      213: -9173940583804260452
+    second: vosklicatelny-(500x500-30fps-95frames)_3
+  - first:
+      213: -3084935718278415908
+    second: vosklicatelny-(500x500-30fps-95frames)_4
+  - first:
+      213: -5667924049459525767
+    second: vosklicatelny-(500x500-30fps-95frames)_5
+  - first:
+      213: -2286581923966444275
+    second: vosklicatelny-(500x500-30fps-95frames)_6
+  - first:
+      213: -3737156108100643325
+    second: vosklicatelny-(500x500-30fps-95frames)_7
+  - first:
+      213: -8622583729031592388
+    second: vosklicatelny-(500x500-30fps-95frames)_8
+  - first:
+      213: 2455153409963782311
+    second: vosklicatelny-(500x500-30fps-95frames)_9
+  - first:
+      213: -8406172036033064654
+    second: vosklicatelny-(500x500-30fps-95frames)_10
+  - first:
+      213: -8836231590610048412
+    second: vosklicatelny-(500x500-30fps-95frames)_11
+  - first:
+      213: 5698629309257647725
+    second: vosklicatelny-(500x500-30fps-95frames)_12
+  - first:
+      213: 9203800539428891116
+    second: vosklicatelny-(500x500-30fps-95frames)_13
+  - first:
+      213: 9220697381453287133
+    second: vosklicatelny-(500x500-30fps-95frames)_14
+  - first:
+      213: -2484925059640858146
+    second: vosklicatelny-(500x500-30fps-95frames)_15
+  - first:
+      213: 6413327141168388943
+    second: vosklicatelny-(500x500-30fps-95frames)_16
+  - first:
+      213: 415665398899955770
+    second: vosklicatelny-(500x500-30fps-95frames)_17
+  - first:
+      213: -3453908633317456455
+    second: vosklicatelny-(500x500-30fps-95frames)_18
+  - first:
+      213: -6369794788819625636
+    second: vosklicatelny-(500x500-30fps-95frames)_19
+  - first:
+      213: 3617589801316409049
+    second: vosklicatelny-(500x500-30fps-95frames)_20
+  - first:
+      213: -1112676254771825285
+    second: vosklicatelny-(500x500-30fps-95frames)_21
+  - first:
+      213: -4619900851456253782
+    second: vosklicatelny-(500x500-30fps-95frames)_22
+  - first:
+      213: -7412264777487057593
+    second: vosklicatelny-(500x500-30fps-95frames)_23
+  - first:
+      213: -9173899490176676800
+    second: vosklicatelny-(500x500-30fps-95frames)_24
+  - first:
+      213: 5910144882944802320
+    second: vosklicatelny-(500x500-30fps-95frames)_25
+  - first:
+      213: 7485975228515529385
+    second: vosklicatelny-(500x500-30fps-95frames)_26
+  - first:
+      213: -3446498485098774678
+    second: vosklicatelny-(500x500-30fps-95frames)_27
+  - first:
+      213: -2683821369293592804
+    second: vosklicatelny-(500x500-30fps-95frames)_28
+  - first:
+      213: 2501139923110367733
+    second: vosklicatelny-(500x500-30fps-95frames)_29
+  - first:
+      213: 6017604028379703071
+    second: vosklicatelny-(500x500-30fps-95frames)_30
+  - first:
+      213: -913218532256527922
+    second: vosklicatelny-(500x500-30fps-95frames)_31
+  - first:
+      213: -8306856656023038740
+    second: vosklicatelny-(500x500-30fps-95frames)_32
+  - first:
+      213: -1547072973409337621
+    second: vosklicatelny-(500x500-30fps-95frames)_33
+  - first:
+      213: -6607601049846219468
+    second: vosklicatelny-(500x500-30fps-95frames)_34
+  - first:
+      213: 6876865971095248899
+    second: vosklicatelny-(500x500-30fps-95frames)_35
+  - first:
+      213: -8181979283671482397
+    second: vosklicatelny-(500x500-30fps-95frames)_36
+  - first:
+      213: 5358800018057535906
+    second: vosklicatelny-(500x500-30fps-95frames)_37
+  - first:
+      213: 6709888467821015979
+    second: vosklicatelny-(500x500-30fps-95frames)_38
+  - first:
+      213: 7035458756635001188
+    second: vosklicatelny-(500x500-30fps-95frames)_39
+  - first:
+      213: -7924758474495041695
+    second: vosklicatelny-(500x500-30fps-95frames)_40
+  - first:
+      213: -2104653033064630431
+    second: vosklicatelny-(500x500-30fps-95frames)_41
+  - first:
+      213: 550133111493815600
+    second: vosklicatelny-(500x500-30fps-95frames)_42
+  - first:
+      213: 6368395481167868123
+    second: vosklicatelny-(500x500-30fps-95frames)_43
+  - first:
+      213: -733484666944592650
+    second: vosklicatelny-(500x500-30fps-95frames)_44
+  - first:
+      213: 7692576365978481234
+    second: vosklicatelny-(500x500-30fps-95frames)_45
+  - first:
+      213: -8417409409356720016
+    second: vosklicatelny-(500x500-30fps-95frames)_46
+  - first:
+      213: 7676874898449103954
+    second: vosklicatelny-(500x500-30fps-95frames)_47
+  - first:
+      213: -1531149574116539774
+    second: vosklicatelny-(500x500-30fps-95frames)_48
+  - first:
+      213: -2354177120828924031
+    second: vosklicatelny-(500x500-30fps-95frames)_49
+  - first:
+      213: 7489890515321056684
+    second: vosklicatelny-(500x500-30fps-95frames)_50
+  - first:
+      213: 7164560450380699474
+    second: vosklicatelny-(500x500-30fps-95frames)_51
+  - first:
+      213: -7158295140983161115
+    second: vosklicatelny-(500x500-30fps-95frames)_52
+  - first:
+      213: -7672957905218733285
+    second: vosklicatelny-(500x500-30fps-95frames)_53
+  - first:
+      213: 3252710561585664524
+    second: vosklicatelny-(500x500-30fps-95frames)_54
+  - first:
+      213: -3834612168279436857
+    second: vosklicatelny-(500x500-30fps-95frames)_55
+  - first:
+      213: -4095141609951860836
+    second: vosklicatelny-(500x500-30fps-95frames)_56
+  - first:
+      213: 6155667388220898430
+    second: vosklicatelny-(500x500-30fps-95frames)_57
+  - first:
+      213: 6427891418913790000
+    second: vosklicatelny-(500x500-30fps-95frames)_58
+  - first:
+      213: -3160431945363444196
+    second: vosklicatelny-(500x500-30fps-95frames)_59
+  - first:
+      213: 2623551466701305109
+    second: vosklicatelny-(500x500-30fps-95frames)_60
+  - first:
+      213: 7187909741188901946
+    second: vosklicatelny-(500x500-30fps-95frames)_61
+  - first:
+      213: 8840955304397002012
+    second: vosklicatelny-(500x500-30fps-95frames)_62
+  - first:
+      213: 1720939889870099844
+    second: vosklicatelny-(500x500-30fps-95frames)_63
+  - first:
+      213: -288502029779319958
+    second: vosklicatelny-(500x500-30fps-95frames)_64
+  - first:
+      213: 4017153713305258828
+    second: vosklicatelny-(500x500-30fps-95frames)_65
+  - first:
+      213: 5191403768267233832
+    second: vosklicatelny-(500x500-30fps-95frames)_66
+  - first:
+      213: 1063920537424273116
+    second: vosklicatelny-(500x500-30fps-95frames)_67
+  - first:
+      213: 7960058247543975587
+    second: vosklicatelny-(500x500-30fps-95frames)_68
+  - first:
+      213: 4447269441393920951
+    second: vosklicatelny-(500x500-30fps-95frames)_69
+  - first:
+      213: 7648085772680132583
+    second: vosklicatelny-(500x500-30fps-95frames)_70
+  - first:
+      213: -2220761694300395091
+    second: vosklicatelny-(500x500-30fps-95frames)_71
+  - first:
+      213: 5512563840093902595
+    second: vosklicatelny-(500x500-30fps-95frames)_72
+  - first:
+      213: 782473867948755218
+    second: vosklicatelny-(500x500-30fps-95frames)_73
+  - first:
+      213: 2565251291852627232
+    second: vosklicatelny-(500x500-30fps-95frames)_74
+  - first:
+      213: 8696362133505773500
+    second: vosklicatelny-(500x500-30fps-95frames)_75
+  - first:
+      213: 1274647367864439445
+    second: vosklicatelny-(500x500-30fps-95frames)_76
+  - first:
+      213: 5362415905882157199
+    second: vosklicatelny-(500x500-30fps-95frames)_77
+  - first:
+      213: 2496137909692219168
+    second: vosklicatelny-(500x500-30fps-95frames)_78
+  - first:
+      213: -520183674873966057
+    second: vosklicatelny-(500x500-30fps-95frames)_79
+  - first:
+      213: -4376577440748722845
+    second: vosklicatelny-(500x500-30fps-95frames)_80
+  - first:
+      213: -5594843960123136064
+    second: vosklicatelny-(500x500-30fps-95frames)_81
+  - first:
+      213: 9220826828928489102
+    second: vosklicatelny-(500x500-30fps-95frames)_82
+  - first:
+      213: 781614540334219558
+    second: vosklicatelny-(500x500-30fps-95frames)_83
+  - first:
+      213: -9025153386025331538
+    second: vosklicatelny-(500x500-30fps-95frames)_84
+  - first:
+      213: 2243119423355567279
+    second: vosklicatelny-(500x500-30fps-95frames)_85
+  - first:
+      213: -8634025360495412815
+    second: vosklicatelny-(500x500-30fps-95frames)_86
+  - first:
+      213: 1157729546945462150
+    second: vosklicatelny-(500x500-30fps-95frames)_87
+  - first:
+      213: 2836642338999283624
+    second: vosklicatelny-(500x500-30fps-95frames)_88
+  - first:
+      213: -4164001649053576385
+    second: vosklicatelny-(500x500-30fps-95frames)_89
+  - first:
+      213: 5368986157504543524
+    second: vosklicatelny-(500x500-30fps-95frames)_90
+  - first:
+      213: -1462075824855435235
+    second: vosklicatelny-(500x500-30fps-95frames)_91
+  - first:
+      213: 4741886835275301549
+    second: vosklicatelny-(500x500-30fps-95frames)_92
+  - first:
+      213: 7079891820275248194
+    second: vosklicatelny-(500x500-30fps-95frames)_93
+  - first:
+      213: -4919060738392340628
+    second: vosklicatelny-(500x500-30fps-95frames)_94
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vosklicatelny-(500x500-30fps-95frames)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3500
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d602959fe84dae430800000000000000
+      internalID: 3813093745056358509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vosklicatelny-(500x500-30fps-95frames)_1
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 3500
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da7a3c38f1561d050800000000000000
+      internalID: 5823546979195791277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vosklicatelny-(500x500-30fps-95frames)_2
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 3500
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c4a43be4a877e30800000000000000
+      internalID: 4501218423200173159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vosklicatelny-(500x500-30fps-95frames)_3
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 3500
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9faec705ad9fa080800000000000000
+      internalID: -9173940583804260452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vosklicatelny-(500x500-30fps-95frames)_4
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 3500
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd9b9151f4b1035d0800000000000000
+      internalID: -3084935718278415908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vosklicatelny-(500x500-30fps-95frames)_5
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 3500
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97742126b1d7751b0800000000000000
+      internalID: -5667924049459525767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vosklicatelny-(500x500-30fps-95frames)_6
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 3500
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d9620eadd6440e0800000000000000
+      internalID: -2286581923966444275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vosklicatelny-(500x500-30fps-95frames)_7
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 3500
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306da7ae154f22cc0800000000000000
+      internalID: -3737156108100643325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vosklicatelny-(500x500-30fps-95frames)_8
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 3500
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36420968cd665880800000000000000
+      internalID: -8622583729031592388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vosklicatelny-(500x500-30fps-95frames)_9
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 3500
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0faf5b405721220800000000000000
+      internalID: 2455153409963782311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vosklicatelny-(500x500-30fps-95frames)_10
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 3500
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2315d6f2217475b80800000000000000
+      internalID: -8406172036033064654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vosklicatelny-(500x500-30fps-95frames)_11
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 3500
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a6a984f266f5580800000000000000
+      internalID: -8836231590610048412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vosklicatelny-(500x500-30fps-95frames)_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3000
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d668ee40a29951f40800000000000000
+      internalID: 5698629309257647725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vosklicatelny-(500x500-30fps-95frames)_13
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 3000
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce92538a3d77abf70800000000000000
+      internalID: 9203800539428891116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vosklicatelny-(500x500-30fps-95frames)_14
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 3000
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddec5e24a6f76ff70800000000000000
+      internalID: 9220697381453287133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vosklicatelny-(500x500-30fps-95frames)_15
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 3000
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9e3aee2d5c38dd0800000000000000
+      internalID: -2484925059640858146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vosklicatelny-(500x500-30fps-95frames)_16
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 3000
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b96bd3e07b00950800000000000000
+      internalID: 6413327141168388943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vosklicatelny-(500x500-30fps-95frames)_17
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 3000
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a385ade5a7db4c500800000000000000
+      internalID: 415665398899955770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vosklicatelny-(500x500-30fps-95frames)_18
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 3000
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b54578c5604110d0800000000000000
+      internalID: -3453908633317456455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vosklicatelny-(500x500-30fps-95frames)_19
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 3000
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5995406361f997a0800000000000000
+      internalID: -6369794788819625636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vosklicatelny-(500x500-30fps-95frames)_20
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 3000
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de5a8ae1c2443230800000000000000
+      internalID: 3617589801316409049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vosklicatelny-(500x500-30fps-95frames)_21
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 3000
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75305c67dafe80f0800000000000000
+      internalID: -1112676254771825285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vosklicatelny-(500x500-30fps-95frames)_22
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 3000
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa0ec6327a0d2efb0800000000000000
+      internalID: -4619900851456253782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vosklicatelny-(500x500-30fps-95frames)_23
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 3000
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d7ebce478522990800000000000000
+      internalID: -7412264777487057593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vosklicatelny-(500x500-30fps-95frames)_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2500
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04cc1e2e403cfa080800000000000000
+      internalID: -9173899490176676800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vosklicatelny-(500x500-30fps-95frames)_25
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 2500
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e740f257d050250800000000000000
+      internalID: 5910144882944802320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vosklicatelny-(500x500-30fps-95frames)_26
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2500
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2ba05dec683e760800000000000000
+      internalID: 7485975228515529385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vosklicatelny-(500x500-30fps-95frames)_27
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2500
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ff3cc53e39b20d0800000000000000
+      internalID: -3446498485098774678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vosklicatelny-(500x500-30fps-95frames)_28
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2500
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1727a22fa621cad0800000000000000
+      internalID: -2683821369293592804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vosklicatelny-(500x500-30fps-95frames)_29
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 2500
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f19a8a2285d5b220800000000000000
+      internalID: 2501139923110367733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vosklicatelny-(500x500-30fps-95frames)_30
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2500
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17288e2bf2d28350800000000000000
+      internalID: 6017604028379703071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vosklicatelny-(500x500-30fps-95frames)_31
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 2500
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9cb8655989353f0800000000000000
+      internalID: -913218532256527922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vosklicatelny-(500x500-30fps-95frames)_32
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 2500
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce458a902ed18bc80800000000000000
+      internalID: -8306856656023038740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vosklicatelny-(500x500-30fps-95frames)_33
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 2500
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee3452d351b78ae0800000000000000
+      internalID: -1547072973409337621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vosklicatelny-(500x500-30fps-95frames)_34
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 2500
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43dfa6e8ad51d44a0800000000000000
+      internalID: -6607601049846219468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vosklicatelny-(500x500-30fps-95frames)_35
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 2500
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300aa1f5a298f6f50800000000000000
+      internalID: 6876865971095248899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vosklicatelny-(500x500-30fps-95frames)_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2000
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eff7250135c37e80800000000000000
+      internalID: -8181979283671482397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vosklicatelny-(500x500-30fps-95frames)_37
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 2000
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a12daa69384e5a40800000000000000
+      internalID: 5358800018057535906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vosklicatelny-(500x500-30fps-95frames)_38
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2000
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba336fec2005e1d50800000000000000
+      internalID: 6709888467821015979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vosklicatelny-(500x500-30fps-95frames)_39
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2000
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4610425b678f2a160800000000000000
+      internalID: 7035458756635001188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vosklicatelny-(500x500-30fps-95frames)_40
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2000
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16fd4f4972a950290800000000000000
+      internalID: -7924758474495041695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vosklicatelny-(500x500-30fps-95frames)_41
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 2000
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167fbb4a735cac2e0800000000000000
+      internalID: -2104653033064630431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vosklicatelny-(500x500-30fps-95frames)_42
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2000
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03de4c1762772a700800000000000000
+      internalID: 550133111493815600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vosklicatelny-(500x500-30fps-95frames)_43
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 2000
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0b63ce2f5116850800000000000000
+      internalID: 6368395481167868123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vosklicatelny-(500x500-30fps-95frames)_44
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 2000
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f46292e49322d5f0800000000000000
+      internalID: -733484666944592650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vosklicatelny-(500x500-30fps-95frames)_45
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 2000
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25276b5a27581ca60800000000000000
+      internalID: 7692576365978481234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vosklicatelny-(500x500-30fps-95frames)_46
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 2000
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07813425dba5f2b80800000000000000
+      internalID: -8417409409356720016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vosklicatelny-(500x500-30fps-95frames)_47
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 2000
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25cfb2bdb0db98a60800000000000000
+      internalID: 7676874898449103954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vosklicatelny-(500x500-30fps-95frames)_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1500
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2820bc0239340cae0800000000000000
+      internalID: -1531149574116539774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vosklicatelny-(500x500-30fps-95frames)_49
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1500
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18fd3aea168445fd0800000000000000
+      internalID: -2354177120828924031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vosklicatelny-(500x500-30fps-95frames)_50
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1500
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad67449dbf61f760800000000000000
+      internalID: 7489890515321056684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vosklicatelny-(500x500-30fps-95frames)_51
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1500
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25711c825c1ad6360800000000000000
+      internalID: 7164560450380699474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vosklicatelny-(500x500-30fps-95frames)_52
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1500
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee3b4cde70a8ac90800000000000000
+      internalID: -7158295140983161115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vosklicatelny-(500x500-30fps-95frames)_53
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 1500
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b79e2307d248590800000000000000
+      internalID: -7672957905218733285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vosklicatelny-(500x500-30fps-95frames)_54
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1500
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02997ca503f32d20800000000000000
+      internalID: 3252710561585664524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vosklicatelny-(500x500-30fps-95frames)_55
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 1500
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c15052bc88b8cac0800000000000000
+      internalID: -3834612168279436857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vosklicatelny-(500x500-30fps-95frames)_56
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 1500
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97e5e917622b27c0800000000000000
+      internalID: -4095141609951860836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vosklicatelny-(500x500-30fps-95frames)_57
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 1500
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7cfc5e10e25d6550800000000000000
+      internalID: 6155667388220898430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vosklicatelny-(500x500-30fps-95frames)_58
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 1500
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03853276035743950800000000000000
+      internalID: 6427891418913790000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vosklicatelny-(500x500-30fps-95frames)_59
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 1500
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ea0dfe3e3e324d0800000000000000
+      internalID: -3160431945363444196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vosklicatelny-(500x500-30fps-95frames)_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1000
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 515bfa6a82ab86420800000000000000
+      internalID: 2623551466701305109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vosklicatelny-(500x500-30fps-95frames)_61
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1000
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c622193d590c360800000000000000
+      internalID: 7187909741188901946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vosklicatelny-(500x500-30fps-95frames)_62
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1000
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1550b9020261ba70800000000000000
+      internalID: 8840955304397002012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vosklicatelny-(500x500-30fps-95frames)_63
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1000
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 485d18f36b102e710800000000000000
+      internalID: 1720939889870099844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vosklicatelny-(500x500-30fps-95frames)_64
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1000
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a634606bee80ffbf0800000000000000
+      internalID: -288502029779319958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vosklicatelny-(500x500-30fps-95frames)_65
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 1000
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b83b9b40ccfb730800000000000000
+      internalID: 4017153713305258828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vosklicatelny-(500x500-30fps-95frames)_66
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1000
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a5135d8329b0840800000000000000
+      internalID: 5191403768267233832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vosklicatelny-(500x500-30fps-95frames)_67
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 1000
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde9a66871ec3ce00800000000000000
+      internalID: 1063920537424273116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vosklicatelny-(500x500-30fps-95frames)_68
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 1000
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aee64c4dcec77e60800000000000000
+      internalID: 7960058247543975587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vosklicatelny-(500x500-30fps-95frames)_69
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 1000
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb0cba8effd7bd30800000000000000
+      internalID: 4447269441393920951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vosklicatelny-(500x500-30fps-95frames)_70
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 1000
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7715c2d75732a60800000000000000
+      internalID: 7648085772680132583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vosklicatelny-(500x500-30fps-95frames)_71
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 1000
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da92e6051054e21e0800000000000000
+      internalID: -2220761694300395091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vosklicatelny-(500x500-30fps-95frames)_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 500
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307d5721b9f808c40800000000000000
+      internalID: 5512563840093902595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vosklicatelny-(500x500-30fps-95frames)_73
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 500
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2198c1156d7ebda00800000000000000
+      internalID: 782473867948755218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vosklicatelny-(500x500-30fps-95frames)_74
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 500
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ddc7a657a999320800000000000000
+      internalID: 2565251291852627232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vosklicatelny-(500x500-30fps-95frames)_75
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 500
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf05cdf84fafa870800000000000000
+      internalID: 8696362133505773500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vosklicatelny-(500x500-30fps-95frames)_76
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 500
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5925277170570b110800000000000000
+      internalID: 1274647367864439445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vosklicatelny-(500x500-30fps-95frames)_77
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 500
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f80b208ead02b6a40800000000000000
+      internalID: 5362415905882157199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vosklicatelny-(500x500-30fps-95frames)_78
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 500
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f3799243014a220800000000000000
+      internalID: 2496137909692219168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vosklicatelny-(500x500-30fps-95frames)_79
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 500
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7121e2924bfe7c8f0800000000000000
+      internalID: -520183674873966057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vosklicatelny-(500x500-30fps-95frames)_80
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 500
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3652f2871064343c0800000000000000
+      internalID: -4376577440748722845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vosklicatelny-(500x500-30fps-95frames)_81
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 500
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c7ee1f9f0f1b52b0800000000000000
+      internalID: -5594843960123136064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vosklicatelny-(500x500-30fps-95frames)_82
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 500
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e869ca99525f6ff70800000000000000
+      internalID: 9220826828928489102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vosklicatelny-(500x500-30fps-95frames)_83
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 500
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621c6e3884ad8da00800000000000000
+      internalID: 781614540334219558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vosklicatelny-(500x500-30fps-95frames)_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4db8e00d630c280800000000000000
+      internalID: -9025153386025331538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vosklicatelny-(500x500-30fps-95frames)_85
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac33e12b39212f10800000000000000
+      internalID: 2243119423355567279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vosklicatelny-(500x500-30fps-95frames)_86
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 0
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b9f4fdfda7cd2880800000000000000
+      internalID: -8634025360495412815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vosklicatelny-(500x500-30fps-95frames)_87
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 0
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f78a793e4111010800000000000000
+      internalID: 1157729546945462150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vosklicatelny-(500x500-30fps-95frames)_88
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 0
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8afa2ea9d27cd5720800000000000000
+      internalID: 2836642338999283624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vosklicatelny-(500x500-30fps-95frames)_89
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 0
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f335500ef8e7636c0800000000000000
+      internalID: -4164001649053576385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vosklicatelny-(500x500-30fps-95frames)_90
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 0
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b3c02d678728a40800000000000000
+      internalID: 5368986157504543524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vosklicatelny-(500x500-30fps-95frames)_91
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 0
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d183ec0a8c9a5bbe0800000000000000
+      internalID: -1462075824855435235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vosklicatelny-(500x500-30fps-95frames)_92
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 0
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da28fadf3f09ec140800000000000000
+      internalID: 4741886835275301549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vosklicatelny-(500x500-30fps-95frames)_93
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 0
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c23b38914d04260800000000000000
+      internalID: 7079891820275248194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vosklicatelny-(500x500-30fps-95frames)_94
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 0
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c67cd8b125cfbbbb0800000000000000
+      internalID: -4919060738392340628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b46c489bc07819346bee8226ad6d18af
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
